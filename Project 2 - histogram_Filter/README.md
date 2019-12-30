@@ -1,13 +1,2 @@
-# Udacity_Introself_Driving
-this include all the work i done during this course 
-
-
-***Course Overview***
-* Joy Ride
-* Probability
-* Conditional Probability
-* Programming Probability in Python
-* Bayes' Rule
-* Programming Bayes' Rule and World Representations
-* Robot Localization
-* Histogram Filter in Python (project)
+# Submission?
+This project will not be submitted for review. You should be able to check your own progress as you go. When your histogram filter is behaving correctly you should move on.
