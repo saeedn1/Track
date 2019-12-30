@@ -1,14 +1,10 @@
 # Udacity_Introself_Driving
 this include all the work i done during this course 
 
-* Bullet list
-       * Nested bullet
-       * Sub-nested bullet etc
-       * Bullet list item 2
 
 ***Course Overview***
-Joy Ride
-Probability
+* Joy Ride
+* Probability
 Conditional Probability
 Programming Probability in Python
 Bayes' Rule
