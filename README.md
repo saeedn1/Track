@@ -1,6 +1,11 @@
 # Udacity_Introself_Driving
 this include all the work i done during this course 
 
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 ***Course Overview***
 Joy Ride
 Probability
