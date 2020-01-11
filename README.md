@@ -1,5 +1,5 @@
 # Udacity_Introself_Driving
-this include all the work i done during this course 
+this include all the work I done during this course 
 
 ***Chapters***
 The Course contents are segregated into the following.
